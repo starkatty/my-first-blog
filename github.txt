@@ -1,0 +1,19 @@
+Github.com
+starkatty
+katiuskasalazar16@gmail.com
+Estrella.#20
+https://github.com/starkatty/my-first-blog.git
+
+www.pythonanywhere.com
+katiuskasalazar
+katiuskasalazar16@gmail.com
+Estrella.#20
+https://katiuskasalazar.pythonanywhere.com
+
+Your API token
+12f2c0eca46716795e5e309fd47e3c28339fda05
+
+https://git-scm.com/download/win
+
+https://tutorial.djangogirls.org/es/django_start_project/
+

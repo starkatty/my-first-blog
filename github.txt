@@ -20,5 +20,6 @@ https://tutorial.djangogirls.org/es/django_start_project/
 Administración de Django (Usuarios)
 ola/Newpassword123#
 katiuskasalazar/Estrella.#20
+nuevo/Newpassword123# correo:nuevo@gmail.com
 
 
